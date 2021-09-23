@@ -6,6 +6,7 @@ public class pedido {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Teste");
+		System.out.println("Teste2");
 
 	}
 
